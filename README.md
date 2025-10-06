@@ -8,7 +8,7 @@
 
 ## 🌐 Socials 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tubasultankoca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tugbasultanaydin/)
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@tubasultankoca) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 
