@@ -1,5 +1,5 @@
 ### <h1 align="center"> Hi there 👋 !'m Tuğba Sultan </h1> 
-<h4>🪄 I'm a Front-End developer,
+<h4>🪄 I'm a Software Developer,
     🤝 I want to make user-friendly interfaces functional with web and mobile technologies,
     💡 I am focused on React and React Native technologies.
     👩‍💻 I love coding, Debugging and fixing bugs is my passion
